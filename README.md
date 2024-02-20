@@ -1,3 +1,8 @@
+![Screenshot (148)](https://github.com/piraisudan02/Sudoku-solver/assets/96645021/4c2882e8-5345-47af-b110-5895c0cd0b5b)
+![Screenshot (147)](https://github.com/piraisudan02/Sudoku-solver/assets/96645021/af111c56-0951-4381-8564-293467e2cbc1)
+![Screenshot (139)](https://github.com/piraisudan02/Sudoku-solver/assets/96645021/33db351f-0c35-4219-a93c-8f950e2b07b7)
+![Screenshot (138)](https://github.com/piraisudan02/Sudoku-solver/assets/96645021/5c98957f-ac48-433d-b978-f79a0720b1bf)
+![Screenshot (135)](https://github.com/piraisudan02/Sudoku-solver/assets/96645021/9065c512-5765-4a71-8a23-6db67cff3148)
 # Sudoku-solver
 User Interface (UI):
 
